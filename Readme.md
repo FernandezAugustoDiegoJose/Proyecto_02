@@ -1,8 +1,6 @@
 # Repositorio GitHub
 ####
-**Diego José Fernández Augusto**
-####
-**Este será el readme del nuevo proyecto**
+**Diego José Fernández Augusto 1º ASIR**
 #### Esto son las 4 almohadillas
 **Esto es una negrita**
 ####
